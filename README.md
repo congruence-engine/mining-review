@@ -1,6 +1,6 @@
-# The power of advertisements
+# Mining Review
 
-##  Depictions of domestic appliances in magazines and the parallel emergence of gas and electricity as sources of energy
+##  Identifying mining related objects in films
 
 ## Short summary
 The investigation aimed to assess how we can incorporate contextual information and metadata into the application of multi-modal large language models to the identification and classification of objects on film, and for the creation of detail-rich metadata for individual shots and stills.  
